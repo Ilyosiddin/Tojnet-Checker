@@ -28,4 +28,4 @@ Tojnet Checker - A fast traffic checker (tojnet) written with python and sqlite3
 
 ### With love Ilyosiddin Kalandar 
 ilyosiddin_kalandar@mail.ru <br>
-<a href="t.me/BadLoona">Telegram</a>
+<a href="https://t.me/BadLoona">Telegram</a>
